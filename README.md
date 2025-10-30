@@ -1,1 +1,14 @@
-# python-code-review-Gaik
+Python Calculator
+Простой консольный калькулятор на Python.
+
+Функциональность
+Сложение (+)
+Вычитание (-)
+Умножение (*)
+Деление (/)
+Запуск
+python calculator.py
+
+Требования
+
+Python 3.8 или выше
